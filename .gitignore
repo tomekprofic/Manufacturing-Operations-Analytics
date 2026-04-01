@@ -1,10 +1,2 @@
-# Ustawienia użytkownika
-*.pbiviz.json
-*.user.json
-
-# Pliki tymczasowe i kopie zapasowe
-*.tmp
-*.bak
-
-# Folder z cache (jeśli się pojawi)
-.pbi/
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
