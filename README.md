@@ -1,5 +1,8 @@
 # Manufacturing Operations & Financial Performance Dashboard
 
+## Quick Preview
+> **Don't have Power BI Desktop?** > [👉 Click here to view the full Report in PDF](./ProjectBI.pdf)
+
 ## Project Overview
 This Power BI project provides a comprehensive analysis of manufacturing plant operations. It integrates operational data with financial accounts to track performance across different hierarchies, from global regions to specific plant locations.
 
