@@ -7,7 +7,6 @@ The goal of this dashboard is to enable data-driven decision-making by monitorin
 
 ## Tech Stack & Tools
 * **Power BI Desktop** – Data modeling and interactive visualization.
-* **Power Query (M)** – Data cleaning and transformation (ETL) of CSV sources.
 * **DAX (Data Analysis Expressions)** – Implementation of calculated measures and KPIs.
 * **Data Sources:** Plant hierarchy data, account mappings, and operational fact tables.
 
